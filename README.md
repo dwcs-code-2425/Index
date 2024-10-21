@@ -4,3 +4,4 @@
 -  	[Actividade 2.3](https://github.com/dwcs-code-2425/Actividad-2.3/tree/main)
 -  	[Actividade 2.4](https://github.com/dwcs-code-2425/Actividade-2.4)
 -  	[Actividade 2.5-$_FILES-Sol](https://github.com/dwcs-code-2425/Actividad-2.5-con-_FILES-Sol)
+-  	[Actividade 2.5-Directivas](https://github.com/dwcs-code-2425/Actividad-2.6-directivas)
