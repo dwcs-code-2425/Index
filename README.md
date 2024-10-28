@@ -6,4 +6,5 @@
 -  	[Actividade 2.5-$_FILES-Sol](https://github.com/dwcs-code-2425/Actividad-2.5-con-_FILES-Sol)
 -  	[Actividade 2.6-Directivas](https://github.com/dwcs-code-2425/Actividad-2.6-directivas)
 -  	[Actividade 2.7-Funcións](https://github.com/dwcs-code-2425/Actividad-2.7-Funciones)
--  	[Actividade 2.8-Referencias](https://github.com/dwcs-code-2425/Actividade-2.8-Referencia)
+-  	[Actividade 2.8-Referencias y 2.9 PHPDoc](https://github.com/dwcs-code-2425/Actividade-2.8-Referencia)
+-  	[Actividade 2.10-Sol-palindromo](https://github.com/dwcs-code-2425/Actividade-2.10-Sol-palindromo)
