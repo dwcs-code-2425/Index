@@ -8,3 +8,4 @@
 -  	[Actividade 2.7-Funcións](https://github.com/dwcs-code-2425/Actividad-2.7-Funciones)
 -  	[Actividade 2.8-Referencias y 2.9 PHPDoc](https://github.com/dwcs-code-2425/Actividade-2.8-Referencia)
 -  	[Actividade 2.10-Sol-palindromo](https://github.com/dwcs-code-2425/Actividade-2.10-Sol-palindromo)
+-  	[Actividade 2.11-Sol-funciones-extra](https://github.com/dwcs-code-2425/Actividad-2.11-funciones-extra)
