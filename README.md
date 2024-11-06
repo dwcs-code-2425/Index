@@ -14,3 +14,4 @@
 - [Ejemplo de conexiones con PDO](https://github.com/dwcs-code-2425/UD3_Ejemplo-connbd)
 - [Ejemplo de SearchBook con PDO](https://github.com/dwcs-code-2425/A3.1-EjemploSearchBook)
 - [Actividade 3.1-Search book-Sol](https://github.com/dwcs-code-2425/A3.1-SearchBook-sol)
+- [Actividade 3.2-Editores](https://github.com/dwcs-code-2425/Actividade3.2-Editores)
