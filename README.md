@@ -9,7 +9,7 @@
 -  	[Actividade 2.8-Referencias y 2.9 PHPDoc](https://github.com/dwcs-code-2425/Actividade-2.8-Referencia)
 -  	[Actividade 2.10-Sol-palindromo](https://github.com/dwcs-code-2425/Actividade-2.10-Sol-palindromo)
 -  	[Actividade 2.11-Sol-funciones-extra](https://github.com/dwcs-code-2425/Actividad-2.11-funciones-extra)
--  	[Prueba Eval. UD2](https://github.com/dwcs-code-2425/Prueba_UD2_Sol_aula)
+-  	[Prueba Eval. UD2]-Sol(https://github.com/dwcs-code-2425/Prueba_UD2_Sol_aula)
 
 ## UD3
 - [Ejemplo de conexiones con PDO](https://github.com/dwcs-code-2425/UD3_Ejemplo-connbd)
