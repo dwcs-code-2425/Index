@@ -18,3 +18,4 @@
 - [Actividade 3.2-Editores](https://github.com/dwcs-code-2425/Actividade3.2-Editores)
 - [Actividade 3.4-Cookies-table-sol](https://github.com/dwcs-code-2425/Actividade-3.4-cookies-table-sol.git)
 - [Actividad 3.5-Sesions-textos-sol](https://github.com/dwcs-code-2425/Actividade-3.5-sesions-sol)
+- [Tarea03.1-Sol](https://github.com/dwcs-code-2425/Tarea03.1-sol)
