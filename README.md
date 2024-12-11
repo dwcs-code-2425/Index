@@ -16,6 +16,7 @@
 - [Ejemplo de SearchBook con PDO](https://github.com/dwcs-code-2425/A3.1-EjemploSearchBook)
 - [Actividade 3.1-Search book-Sol](https://github.com/dwcs-code-2425/A3.1-SearchBook-sol)
 - [Actividade 3.2-Editores](https://github.com/dwcs-code-2425/Actividade3.2-Editores)
+- [Actividade 3.3-sol-mysqli](https://github.com/dwcs-code-2425/Actividad3.3-sol.git)
 - [Actividade 3.4-Cookies-table-sol](https://github.com/dwcs-code-2425/Actividade-3.4-cookies-table-sol.git)
 - [Actividad 3.5-Sesions-textos-sol](https://github.com/dwcs-code-2425/Actividade-3.5-sesions-sol)
 - [Actividad 3.6-Cesta-refactoring-sol](https://github.com/dwcs-code-2425/Actividade3.6-Cesta-refactor-sol.git)
