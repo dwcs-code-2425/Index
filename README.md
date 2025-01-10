@@ -25,4 +25,6 @@
 
 ## UD4
 - [Actividade4.1-katas Codewars](https://github.com/dwcs-code-2425/Actividade4.1-katasCodewars.git)
+- [Actividade4.2-Academia Baile](https://github.com/dwcs-code-2425/Actividad-4.2-AcademiaBaile-Sol.git)
+- 
   
