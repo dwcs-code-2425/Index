@@ -27,4 +27,5 @@
 - [Actividade 4.1 e 4.2-katas Codewars ](https://github.com/dwcs-code-2425/Actividade4.1-katasCodewars.git)
 - [Actividade 4.3-Academia Baile](https://github.com/dwcs-code-2425/Actividad-4.3-AcademiaBaile-Sol.git)
 - [Actividade 4.4-Academia Baile con ns](https://github.com/dwcs-code-2425/Actividade-4.4-Academia-Baile-con-Namespaces.git)
+- [Actividade 4.5-Academia Baile con jsonserialize](https://github.com/dwcs-code-2425/Actividade-4.5-Academia-de-Baile-jsonserialize.git)
   
