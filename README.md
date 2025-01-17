@@ -29,4 +29,5 @@
 - [Actividade 4.4-Academia Baile con ns](https://github.com/dwcs-code-2425/Actividade-4.4-Academia-Baile-con-Namespaces.git)
 - [Actividade 4.5-Academia Baile con jsonserialize](https://github.com/dwcs-code-2425/Actividade-4.5-Academia-de-Baile-jsonserialize.git)
 - [Actividade 4.6-Compra-Strategy](https://github.com/dwcs-code-2425/Actividade-4.6-Compra-Strategy.git)
+- [Actividade 4.8-Abstract class Persoa Academia Baile](https://github.com/dwcs-code-2425/A4.8-abstract-Persoa-Academia)
   
