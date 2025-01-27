@@ -32,4 +32,5 @@
 - [Actividade 4.7-Abstract-Calculo](https://github.com/dwcs-code-2425/A4.7-abstract-calculo)
 - [Actividade 4.8-Abstract class Persoa Academia Baile](https://github.com/dwcs-code-2425/A4.8-abstract-Persoa-Academia)
 - [Actividade 4.10-IComparar](https://github.com/dwcs-code-2425/Actividade-4.10-IComparar.git)
+- [Actividade 4.11-MVC-JSON con UsuarioController](https://github.com/dwcs-code-2425/Actividade-4.11-MVC-jsonUsuarioController)
   
