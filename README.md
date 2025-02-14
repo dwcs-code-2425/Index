@@ -34,6 +34,7 @@
 - [Actividade 4.9-Tratis e funcións de clases](https://github.com/dwcs-code-2425/Actividade-4.9.git)
 - [Actividade 4.10-IComparar](https://github.com/dwcs-code-2425/Actividade-4.10-IComparar.git)
 - [Actividade 4.11-MVC-JSON con UsuarioController](https://github.com/dwcs-code-2425/Actividade-4.11-MVC-jsonUsuarioController)
+- [Actividade 4.13-TableController](https://github.com/dwcs-code-2425/Actividad4.13-TableController.git)
 
 ### Symfony
 - [Proyecto webapp Symfony recién creado](https://github.com/dwcs-code-2425/Symfony-webapp-clean-7.2.-.git)
