@@ -43,5 +43,7 @@
 - [Activade 4.14-Rutas plantillas](https://github.com/dwcs-code-2425/Actividade4.14-Rutas-en-plantillas.git)
 - [Actividade 4.15-Creación Nota](https://github.com/dwcs-code-2425/Actividade-4.15-Creacion-nota)
 - [Actividade 4.16-Consultas DQL](https://github.com/dwcs-code-2425/Actividade-4.16-consultas.git)
+- [Tarea04.2 Hito 1](https://github.com/dwcs-code-2425/Tarefa04.2-Hito1-Sol)
+- 
   
   
