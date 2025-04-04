@@ -34,7 +34,7 @@
 - [Actividade 4.9-Tratis e funcións de clases](https://github.com/dwcs-code-2425/Actividade-4.9.git)
 - [Actividade 4.10-IComparar](https://github.com/dwcs-code-2425/Actividade-4.10-IComparar.git)
 - [Actividade 4.11-MVC-JSON con UsuarioController](https://github.com/dwcs-code-2425/Actividade-4.11-MVC-jsonUsuarioController)
-- [Proba Aval. UD4-MVC sen framework](https://github.com/dwcs-code-2425/Proba_UD4_Aval2_POO_MVC_Sol.git)
+- [Proba Aval. UD4-MVC sen framework-SOL](https://github.com/dwcs-code-2425/Proba_UD4_Aval2_POO_MVC_Sol.git)
 
 
 
@@ -45,6 +45,6 @@
 - [Actividade 4.15-Creación Nota](https://github.com/dwcs-code-2425/Actividade-4.15-Creacion-nota)
 - [Actividade 4.16-Consultas DQL](https://github.com/dwcs-code-2425/Actividade-4.16-consultas.git)
 - [Tarea04.2 Hito 1](https://github.com/dwcs-code-2425/Tarefa04.2-Hito1-Sol)
-- [Proba Aval. UD4-Symfony](https://github.com/dwcs-code-2425/Proba_UD4_Symf_sol.git)
+- [Proba Aval. UD4-Symfony-SOL](https://github.com/dwcs-code-2425/Proba_UD4_Symf_sol.git)
   
   
