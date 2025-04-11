@@ -49,5 +49,8 @@
 
 ##  UD5
 - [Actividade 5.1-Hola Mundo con Fetch](https://github.com/dwcs-code-2425/Actividade5.1-holaMundoFetch-SOL.git)
+- [Actividade 5.2-loginJSON](https://github.com/dwcs-code-2425/Actividade5.2-sol.git)
+- [Exemplo básico MVC SPA](https://github.com/dwcs-code-2425/Ejemplo_MVC_Basico_SPA.git)
+- [Exemplo SPA modal](https://github.com/dwcs-code-2425/Ejemplo_SPA_modal.git)
   
   
