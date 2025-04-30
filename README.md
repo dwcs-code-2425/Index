@@ -53,5 +53,7 @@
 - [Exemplo básico MVC SPA](https://github.com/dwcs-code-2425/Ejemplo_MVC_Basico_SPA.git)
 - [Exemplo SPA modal](https://github.com/dwcs-code-2425/Ejemplo_SPA_modal.git)
 - [Actividade 5.3-sol](https://github.com/dwcs-code-2425/Actividade-5.3-sol)
+- [Actividade 5.4-sol](https://github.com/dwcs-code-2425/Actividade5.4-aula-sol.git)
+- [Ejemplos validación servidor](https://github.com/dwcs-code-2425/Ejemplos_Validacion_servidor)
   
   
