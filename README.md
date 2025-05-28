@@ -56,6 +56,9 @@
 - [Actividade 5.4-sol](https://github.com/dwcs-code-2425/Actividade5.4-aula-sol.git)
 - [Ejemplos validación servidor](https://github.com/dwcs-code-2425/Ejemplos_Validacion_servidor)
 
+## UD6
+- [Tarea06.1-sol](https://github.com/dwcs-code-2425/Tarea06.1-sol.git)
+
 ## Probas 3ª avaliación
 - [Prueba UD5 cliente-SOL](https://github.com/dwcs-code-2425/Prueba_UD5_SOL_Cliente.git)
 - [Prueba UD5 servidor](https://github.com/dwcs-code-2425/Prueba_UD5_SOL_SERV_web)
